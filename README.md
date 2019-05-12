@@ -22,3 +22,13 @@ For instance, you could say
 6. What is your biggest concern regarding your project? (a few sentences max).
       My biggest concern is figuring out what sort of math to do and implementing this math, especially since the raw data is just coordinates. 
       
+
+## Grade Discussion 5 (week5): 20/20 Nice work!!! :thumbsup:
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Questions | **X** | | | |
+| Project README.md | **X** | | | |
+| Challenges - Timely Submission | **X** | | | |
+
